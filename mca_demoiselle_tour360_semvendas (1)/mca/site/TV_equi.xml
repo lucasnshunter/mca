@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node8">
+  <panorama id="node8">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="estar" datetime="2015:07:17 09:33:01" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="cozinha" target="" pan="103.603" skinid="hotspot" url="{node4}" id="cozinha" tilt="-5.068"/>
+      <hotspot title="varanda" target="" pan="86.1407" skinid="hotspot" url="{node9}" id="varanda" tilt="-2.91394"/>
+      <hotspot title="circulação" target="" pan="43.7694" skinid="hotspot" url="{node3}" id="circulacao" tilt="-3.72161"/>
+      <hotspot title="lavabo" target="" pan="-161.327" skinid="camera" url="" id="lavabo" tilt="-4.88907"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/TV_equi_o_0.jpg" prev5url="html5/images/TV_equi_o_preview_5.jpg" prev4url="html5/images/TV_equi_o_preview_4.jpg" prev3url="html5/images/TV_equi_o_preview_3.jpg" prev2url="html5/images/TV_equi_o_preview_2.jpg" prev1url="html5/images/TV_equi_o_preview_1.jpg" prev0url="html5/images/TV_equi_o_preview_0.jpg" tile5url="html5/images/TV_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/TV_equi_o_4.jpg" tile3url="html5/images/TV_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/TV_equi_o_2.jpg" tile1url="html5/images/TV_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/TV_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/TV_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/TV_equi_o_416_4.jpg" tile3url="html5/images/TV_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/TV_equi_o_416_2.jpg" tile1url="html5/images/TV_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/TV_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/TV_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/TV_equi_o_700_4.jpg" tile3url="html5/images/TV_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/TV_equi_o_700_2.jpg" tile1url="html5/images/TV_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/TV_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/TV_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/TV_equi_o_960_4.jpg" tile3url="html5/images/TV_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/TV_equi_o_960_2.jpg" tile1url="html5/images/TV_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/TV_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/TV_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/TV_equi_o_960_4.jpg" tile3url="html5/images/TV_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/TV_equi_o_960_2.jpg" tile1url="html5/images/TV_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="varanda" datetime="2015:07:17 09:33:08" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="cozinha" target="" pan="-132.084" skinid="hotspot" url="{node4}" id="cozinha" tilt="-6.00972"/>
+      <hotspot title="sala" target="" pan="-67.2683" skinid="hotspot" url="{node8}" id="estar" tilt="-4.60149"/>
+      <hotspot title="circulação" target="" pan="-37.5206" skinid="hotspot" url="{node3}" id="circulacao" tilt="-2.3745"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/varanda_equi_o_0.jpg" prev5url="html5/images/varanda_equi_o_preview_5.jpg" prev4url="html5/images/varanda_equi_o_preview_4.jpg" prev3url="html5/images/varanda_equi_o_preview_3.jpg" prev2url="html5/images/varanda_equi_o_preview_2.jpg" prev1url="html5/images/varanda_equi_o_preview_1.jpg" prev0url="html5/images/varanda_equi_o_preview_0.jpg" tile5url="html5/images/varanda_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/varanda_equi_o_4.jpg" tile3url="html5/images/varanda_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/varanda_equi_o_2.jpg" tile1url="html5/images/varanda_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/varanda_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/varanda_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/varanda_equi_o_416_4.jpg" tile3url="html5/images/varanda_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/varanda_equi_o_416_2.jpg" tile1url="html5/images/varanda_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/varanda_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/varanda_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/varanda_equi_o_700_4.jpg" tile3url="html5/images/varanda_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/varanda_equi_o_700_2.jpg" tile1url="html5/images/varanda_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/varanda_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/varanda_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/varanda_equi_o_960_4.jpg" tile3url="html5/images/varanda_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/varanda_equi_o_960_2.jpg" tile1url="html5/images/varanda_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/varanda_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/varanda_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/varanda_equi_o_960_4.jpg" tile3url="html5/images/varanda_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/varanda_equi_o_960_2.jpg" tile1url="html5/images/varanda_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="cozinha" datetime="2015:07:17 09:32:33" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="varanda" target="" pan="92.776" skinid="hotspot" url="{node9}" id="varanda" tilt="-3.39625"/>
+      <hotspot title="estar" target="" pan="-41.6505" skinid="hotspot" url="{node8}" id="estar" tilt="-5.38318"/>
+      <hotspot title="circulação" target="" pan="-7.54418" skinid="hotspot" url="{node3}" id="circulacao" tilt="-5.22315"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/cozinha_equi_o_0.jpg" prev5url="html5/images/cozinha_equi_o_preview_5.jpg" prev4url="html5/images/cozinha_equi_o_preview_4.jpg" prev3url="html5/images/cozinha_equi_o_preview_3.jpg" prev2url="html5/images/cozinha_equi_o_preview_2.jpg" prev1url="html5/images/cozinha_equi_o_preview_1.jpg" prev0url="html5/images/cozinha_equi_o_preview_0.jpg" tile5url="html5/images/cozinha_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/cozinha_equi_o_4.jpg" tile3url="html5/images/cozinha_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/cozinha_equi_o_2.jpg" tile1url="html5/images/cozinha_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/cozinha_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/cozinha_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/cozinha_equi_o_416_4.jpg" tile3url="html5/images/cozinha_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/cozinha_equi_o_416_2.jpg" tile1url="html5/images/cozinha_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/cozinha_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/cozinha_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/cozinha_equi_o_700_4.jpg" tile3url="html5/images/cozinha_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/cozinha_equi_o_700_2.jpg" tile1url="html5/images/cozinha_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/cozinha_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/cozinha_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/cozinha_equi_o_960_4.jpg" tile3url="html5/images/cozinha_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/cozinha_equi_o_960_2.jpg" tile1url="html5/images/cozinha_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/cozinha_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/cozinha_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/cozinha_equi_o_960_4.jpg" tile3url="html5/images/cozinha_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/cozinha_equi_o_960_2.jpg" tile1url="html5/images/cozinha_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="circulação" datetime="2015:07:17 09:32:28" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="estar" target="" pan="-11.3134" skinid="hotspot" url="{node8}" id="estar" tilt="-11.4858"/>
+      <hotspot title="cozinha" target="" pan="-48.4507" skinid="hotspot" url="{node4}" id="cozinha" tilt="-6.1266"/>
+      <hotspot title="varanda" target="" pan="-76.2201" skinid="hotspot" url="{node9}" id="varanda" tilt="-2.56695"/>
+      <hotspot title="suíte casal" target="" pan="82.5991" skinid="hotspot" url="{node5}" id="suitecasal" tilt="-0.334419"/>
+      <hotspot title="suíte menino" target="" pan="156.725" skinid="hotspot" url="{node7}" id="suitemenino" tilt="-4.89513"/>
+      <hotspot title="suíte menina" target="" pan="176.356" skinid="hotspot" url="{node6}" id="suitemenina" tilt="-6.11619"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/corredor_equi_o_0.jpg" prev5url="html5/images/corredor_equi_o_preview_5.jpg" prev4url="html5/images/corredor_equi_o_preview_4.jpg" prev3url="html5/images/corredor_equi_o_preview_3.jpg" prev2url="html5/images/corredor_equi_o_preview_2.jpg" prev1url="html5/images/corredor_equi_o_preview_1.jpg" prev0url="html5/images/corredor_equi_o_preview_0.jpg" tile5url="html5/images/corredor_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/corredor_equi_o_4.jpg" tile3url="html5/images/corredor_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/corredor_equi_o_2.jpg" tile1url="html5/images/corredor_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/corredor_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/corredor_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/corredor_equi_o_416_4.jpg" tile3url="html5/images/corredor_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/corredor_equi_o_416_2.jpg" tile1url="html5/images/corredor_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/corredor_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/corredor_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/corredor_equi_o_700_4.jpg" tile3url="html5/images/corredor_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/corredor_equi_o_700_2.jpg" tile1url="html5/images/corredor_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/corredor_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/corredor_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/corredor_equi_o_960_4.jpg" tile3url="html5/images/corredor_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/corredor_equi_o_960_2.jpg" tile1url="html5/images/corredor_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/corredor_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/corredor_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/corredor_equi_o_960_4.jpg" tile3url="html5/images/corredor_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/corredor_equi_o_960_2.jpg" tile1url="html5/images/corredor_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="suíte casal" datetime="2015:07:17 09:32:40" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="banho casal" target="" pan="-132.266" skinid="hotspot" url="{node2}" id="banhocasal" tilt="-5.53849"/>
+      <hotspot title="circulação" target="" pan="-19.113" skinid="hotspot" url="{node3}" id="circulacao" tilt="-8.56893"/>
+      <hotspot title="estar" target="" pan="3.74056" skinid="hotspot" url="{node8}" id="estar" tilt="-6.02673"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/quarto_casal_equi_o_0.jpg" prev5url="html5/images/quarto_casal_equi_o_preview_5.jpg" prev4url="html5/images/quarto_casal_equi_o_preview_4.jpg" prev3url="html5/images/quarto_casal_equi_o_preview_3.jpg" prev2url="html5/images/quarto_casal_equi_o_preview_2.jpg" prev1url="html5/images/quarto_casal_equi_o_preview_1.jpg" prev0url="html5/images/quarto_casal_equi_o_preview_0.jpg" tile5url="html5/images/quarto_casal_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/quarto_casal_equi_o_4.jpg" tile3url="html5/images/quarto_casal_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_casal_equi_o_2.jpg" tile1url="html5/images/quarto_casal_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/quarto_casal_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/quarto_casal_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/quarto_casal_equi_o_416_4.jpg" tile3url="html5/images/quarto_casal_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_casal_equi_o_416_2.jpg" tile1url="html5/images/quarto_casal_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_casal_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/quarto_casal_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/quarto_casal_equi_o_700_4.jpg" tile3url="html5/images/quarto_casal_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_casal_equi_o_700_2.jpg" tile1url="html5/images/quarto_casal_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_casal_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/quarto_casal_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/quarto_casal_equi_o_960_4.jpg" tile3url="html5/images/quarto_casal_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_casal_equi_o_960_2.jpg" tile1url="html5/images/quarto_casal_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_casal_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/quarto_casal_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/quarto_casal_equi_o_960_4.jpg" tile3url="html5/images/quarto_casal_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_casal_equi_o_960_2.jpg" tile1url="html5/images/quarto_casal_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="banho casal" datetime="2015:07:17 09:32:21" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="suíte casal" target="" pan="18.2774" skinid="hotspot" url="{node5}" id="suitecasal" tilt="-2.18884"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/banho_casal_equi_o_0.jpg" prev5url="html5/images/banho_casal_equi_o_preview_5.jpg" prev4url="html5/images/banho_casal_equi_o_preview_4.jpg" prev3url="html5/images/banho_casal_equi_o_preview_3.jpg" prev2url="html5/images/banho_casal_equi_o_preview_2.jpg" prev1url="html5/images/banho_casal_equi_o_preview_1.jpg" prev0url="html5/images/banho_casal_equi_o_preview_0.jpg" tile5url="html5/images/banho_casal_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/banho_casal_equi_o_4.jpg" tile3url="html5/images/banho_casal_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_casal_equi_o_2.jpg" tile1url="html5/images/banho_casal_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/banho_casal_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/banho_casal_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/banho_casal_equi_o_416_4.jpg" tile3url="html5/images/banho_casal_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_casal_equi_o_416_2.jpg" tile1url="html5/images/banho_casal_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/banho_casal_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/banho_casal_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/banho_casal_equi_o_700_4.jpg" tile3url="html5/images/banho_casal_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_casal_equi_o_700_2.jpg" tile1url="html5/images/banho_casal_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/banho_casal_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/banho_casal_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/banho_casal_equi_o_960_4.jpg" tile3url="html5/images/banho_casal_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_casal_equi_o_960_2.jpg" tile1url="html5/images/banho_casal_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/banho_casal_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/banho_casal_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/banho_casal_equi_o_960_4.jpg" tile3url="html5/images/banho_casal_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_casal_equi_o_960_2.jpg" tile1url="html5/images/banho_casal_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="suíte menina" datetime="2015:07:17 09:32:49" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="circulação" target="" pan="43.3462" skinid="hotspot" url="{node3}" id="circulacao" tilt="-4.47644"/>
+      <hotspot title="suíte menino" target="" pan="51.7545" skinid="hotspot" url="{node7}" id="suitemenino" tilt="-0.853008"/>
+      <hotspot title="banho americano" target="" pan="76.8632" skinid="hotspot" url="{node1}" id="banhoamericano" tilt="-3.38165"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/quarto_menina_equi_equi_o_0.jpg" prev5url="html5/images/quarto_menina_equi_equi_o_preview_5.jpg" prev4url="html5/images/quarto_menina_equi_equi_o_preview_4.jpg" prev3url="html5/images/quarto_menina_equi_equi_o_preview_3.jpg" prev2url="html5/images/quarto_menina_equi_equi_o_preview_2.jpg" prev1url="html5/images/quarto_menina_equi_equi_o_preview_1.jpg" prev0url="html5/images/quarto_menina_equi_equi_o_preview_0.jpg" tile5url="html5/images/quarto_menina_equi_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/quarto_menina_equi_equi_o_4.jpg" tile3url="html5/images/quarto_menina_equi_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menina_equi_equi_o_2.jpg" tile1url="html5/images/quarto_menina_equi_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/quarto_menina_equi_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/quarto_menina_equi_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/quarto_menina_equi_equi_o_416_4.jpg" tile3url="html5/images/quarto_menina_equi_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menina_equi_equi_o_416_2.jpg" tile1url="html5/images/quarto_menina_equi_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_menina_equi_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/quarto_menina_equi_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/quarto_menina_equi_equi_o_700_4.jpg" tile3url="html5/images/quarto_menina_equi_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menina_equi_equi_o_700_2.jpg" tile1url="html5/images/quarto_menina_equi_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_menina_equi_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/quarto_menina_equi_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/quarto_menina_equi_equi_o_960_4.jpg" tile3url="html5/images/quarto_menina_equi_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menina_equi_equi_o_960_2.jpg" tile1url="html5/images/quarto_menina_equi_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_menina_equi_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/quarto_menina_equi_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/quarto_menina_equi_equi_o_960_4.jpg" tile3url="html5/images/quarto_menina_equi_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menina_equi_equi_o_960_2.jpg" tile1url="html5/images/quarto_menina_equi_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="suíte menino" datetime="2015:07:17 09:32:55" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="banho americano" target="" pan="-134.719" skinid="hotspot" url="{node1}" id="banhoamericano" tilt="-1.43619"/>
+      <hotspot title="circulação" target="" pan="-59.4568" skinid="hotspot" url="{node3}" id="circulacao" tilt="-4.96318"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/quarto_menino_equi_o_0.jpg" prev5url="html5/images/quarto_menino_equi_o_preview_5.jpg" prev4url="html5/images/quarto_menino_equi_o_preview_4.jpg" prev3url="html5/images/quarto_menino_equi_o_preview_3.jpg" prev2url="html5/images/quarto_menino_equi_o_preview_2.jpg" prev1url="html5/images/quarto_menino_equi_o_preview_1.jpg" prev0url="html5/images/quarto_menino_equi_o_preview_0.jpg" tile5url="html5/images/quarto_menino_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/quarto_menino_equi_o_4.jpg" tile3url="html5/images/quarto_menino_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menino_equi_o_2.jpg" tile1url="html5/images/quarto_menino_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/quarto_menino_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/quarto_menino_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/quarto_menino_equi_o_416_4.jpg" tile3url="html5/images/quarto_menino_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menino_equi_o_416_2.jpg" tile1url="html5/images/quarto_menino_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_menino_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/quarto_menino_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/quarto_menino_equi_o_700_4.jpg" tile3url="html5/images/quarto_menino_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menino_equi_o_700_2.jpg" tile1url="html5/images/quarto_menino_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_menino_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/quarto_menino_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/quarto_menino_equi_o_960_4.jpg" tile3url="html5/images/quarto_menino_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menino_equi_o_960_2.jpg" tile1url="html5/images/quarto_menino_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/quarto_menino_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/quarto_menino_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/quarto_menino_equi_o_960_4.jpg" tile3url="html5/images/quarto_menino_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/quarto_menino_equi_o_960_2.jpg" tile1url="html5/images/quarto_menino_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="banho americano" datetime="2014:03:06 12:13:10" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="suíte menina" target="" pan="156.487" skinid="hotspot" url="{node6}" id="suitemenina" tilt="-8.33249"/>
+      <hotspot title="suíte menino" target="" pan="-23.6991" skinid="hotspot" url="{node7}" id="suitemenino" tilt="-5.12569"/>
+    </hotspots>
+    <media/>
+    <input tile0url="html5/images/banho_americano_equi_o_0.jpg" prev5url="html5/images/banho_americano_equi_o_preview_5.jpg" prev4url="html5/images/banho_americano_equi_o_preview_4.jpg" prev3url="html5/images/banho_americano_equi_o_preview_3.jpg" prev2url="html5/images/banho_americano_equi_o_preview_2.jpg" prev1url="html5/images/banho_americano_equi_o_preview_1.jpg" prev0url="html5/images/banho_americano_equi_o_preview_0.jpg" tile5url="html5/images/banho_americano_equi_o_5.jpg" tilesize="1440" tile4url="html5/images/banho_americano_equi_o_4.jpg" tile3url="html5/images/banho_americano_equi_o_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_americano_equi_o_2.jpg" tile1url="html5/images/banho_americano_equi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="html5/images/banho_americano_equi_o_416_0.jpg" screensize="480" tile5url="html5/images/banho_americano_equi_o_416_5.jpg" tilesize="416" tile4url="html5/images/banho_americano_equi_o_416_4.jpg" tile3url="html5/images/banho_americano_equi_o_416_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_americano_equi_o_416_2.jpg" tile1url="html5/images/banho_americano_equi_o_416_1.jpg"/>
+    <altinput tile0url="html5/images/banho_americano_equi_o_700_0.jpg" screensize="960" tile5url="html5/images/banho_americano_equi_o_700_5.jpg" tilesize="700" tile4url="html5/images/banho_americano_equi_o_700_4.jpg" tile3url="html5/images/banho_americano_equi_o_700_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_americano_equi_o_700_2.jpg" tile1url="html5/images/banho_americano_equi_o_700_1.jpg"/>
+    <altinput tile0url="html5/images/banho_americano_equi_o_960_0.jpg" screensize="1024" tile5url="html5/images/banho_americano_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/banho_americano_equi_o_960_4.jpg" tile3url="html5/images/banho_americano_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_americano_equi_o_960_2.jpg" tile1url="html5/images/banho_americano_equi_o_960_1.jpg"/>
+    <altinput tile0url="html5/images/banho_americano_equi_o_960_0.jpg" screensize="1025" tile5url="html5/images/banho_americano_equi_o_960_5.jpg" tilesize="960" tile4url="html5/images/banho_americano_equi_o_960_4.jpg" tile3url="html5/images/banho_americano_equi_o_960_3.jpg" tilescale="1.006944" tile2url="html5/images/banho_americano_equi_o_960_2.jpg" tile1url="html5/images/banho_americano_equi_o_960_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
